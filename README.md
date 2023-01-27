@@ -30,7 +30,7 @@ e.g. ```"PROPAL: [LIGHTNING] JupyerLite: Jupyter+WASM in the browser"```
 Je propose une presentation de 15 mins sur le Projet JupyterLite qui permet de tourner Jupyter **entierement dans le navigateur** grace au technologie de WASM (WebAssembly)
 ```
 
-e.g. '''PROPAL: [ATELIER] Premiers pas avec Kubernetes```
+e.g. ```"PROPAL: [ATELIER] Premiers pas avec Kubernetes"```
 ```
 Je propose d'animer un atelier de 2h pour introduire les notions de Kubernetes avec mise en main.
 
@@ -39,12 +39,12 @@ Je propose d'animer un atelier de 2h pour introduire les notions de Kubernetes a
 - venez avec votre laptop, vous allez vous connecter a un environment de lab fourni via ssh
 ```
 
-e.g. '''PROPAL: [TALK] Retour sur le KubeConEU```
+e.g. ```"PROPAL: [TALK] Retour sur le KubeConEU"```
 ```
 Je propose donner un retour sur le KubeConEU, tenu a Amsterdam dernieremenb
 ```
 
-e.g. '''PROPAL: [REX] Retour d'Experiences sur project IaC```
+e.g. ```"PROPAL: [REX] Retour d'Experiences sur project IaC"```
 ```
 Je propose donner un retour d'experience sur notre passage a l'Infrastructure as Code en passant par Pulumi, Terraform, CDKTF
 ```
@@ -55,12 +55,12 @@ Dans le titre specifie clairement le type d'activite et le sujet principale
 
 Dans le corps du message specifie la demande plus precisement et eventuellements differents modes tels que TALK, ATELIER, LIGHTNING.
 
-e.g. '''DEMANDE: [ATELIER] Kubernetes Troubleshooting```
+e.g. ```"DEMANDE: [ATELIER] Kubernetes Troubleshooting"```
 ```
 Ca serait utile d'avoir un atelier sur comment faiure du trouble-shoot d'applications sur Kubernetes
 ```
 
-e.g. '''DEMANDE: [TALK] Intro to Pulumi```
+e.g. ```"DEMANDE: [TALK] Intro to Pulumi"```
 ```
 Ca serait interessant d'avoir une presentation sur l'outil **Pulumi** (Infrastructure as Code) ```
 
